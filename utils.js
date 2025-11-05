@@ -7,3 +7,5 @@ function funcionA() {
 function funcionB() {
     return 'Versión B';
 }
+
+// codigo rama dos
