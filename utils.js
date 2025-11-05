@@ -8,4 +8,4 @@ function funcionB() {
     return 'Versión B';
 }
 
-// codigo rama dos otra vez
+// codigo rama dos otra vez, ahora actualizada
